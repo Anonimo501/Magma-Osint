@@ -13,7 +13,7 @@ Script que ayuda a la busqueda de informacion sobre una persona, ingresando el n
 
 # Instalacion y Uso
 
-git clone https://github.com/LimerBoy/MagmaOsint
-cd MagmaOsint/
+git clone https://github.com/Anonimo501/Magma-Osint.git
+cd Magma-Osint/
 pip install -r requirements.txt
 python3 osint.py
