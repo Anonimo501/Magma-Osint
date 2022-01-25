@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+colorama
+google
+fuzzywuzzy
+python-Levenshtein
