@@ -9,6 +9,7 @@ Grupo en Telegram https://t.me/Pen7esting
 Script que ayuda a la busqueda de informacion sobre una persona, ingresando el nombre o el nickname, creado por LimerBoy (https://github.com/LimerBoy), subo el script ya que no lo volvi a ver publico y deseo compartirlo, espero os guste.
 
 
+![Screenshot_1](https://user-images.githubusercontent.com/67207446/151026681-5fdb670b-3b73-4e9c-a925-5a150be1bde5.png)
 
 
 # Instalacion y Uso
