@@ -1,0 +1,6 @@
+python3 -m pip install --upgrade pip
+python3 -m venv magna-env
+source magna-env/bin/activate
+
+Para desactivar el entorno:
+deactivate

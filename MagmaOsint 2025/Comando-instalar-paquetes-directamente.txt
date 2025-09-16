@@ -1,0 +1,1 @@
+pip install requests beautifulsoup4 colorama fuzzywuzzy python-Levenshtein duckduckgo-search
